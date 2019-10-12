@@ -10,8 +10,10 @@ Hackerrank profile Leonardo Placidi
 ***
 You will find:
 ***
-1 folder with screenshots
+1. folder with screenshots
 ***
-2 files .ipynb that you can read using https://nbviewer.jupyter.org/
+2. files .ipynb that you can read using https://nbviewer.jupyter.org/
 ***
 Every exercise has a name and a number in the first row #---
+***
+3. this file!
