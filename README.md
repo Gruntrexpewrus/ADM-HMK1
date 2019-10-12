@@ -3,7 +3,10 @@ This is Leonardo Placidi directory for HMK 1 of Algorithmic Methods of Data Mini
 ***
 Academic year 2019–2020
 ***
-Leonardo Placidi mat.1761588
+Leonardo Placidi mat.1761588.
+***
+Hackerrank profile Leonardo Placidi
+@placidi_1761588
 ***There is***
 1 folder with screenshots
 ***
