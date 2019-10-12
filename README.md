@@ -8,7 +8,7 @@ Leonardo Placidi mat.1761588.
 Hackerrank profile Leonardo Placidi
 @placidi_1761588
 ***
-There is
+You will find:
 ***
 1 folder with screenshots
 ***
