@@ -10,7 +10,7 @@ Hackerrank profile Leonardo Placidi
 ***
 You will find:
 ***
-1. folder "SCreenshot" with screenshots attesting that I have completed the challenges
+1. folder "SCreenshot" with screenshots attesting that I have completed the challenges (they are 19 pages from file (4) to file (22))
 ***
 2. files .ipynb that you can read using https://nbviewer.jupyter.org/
 ***
